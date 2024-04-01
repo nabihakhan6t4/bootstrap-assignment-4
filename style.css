@@ -6,3 +6,32 @@
     background: rgba(117, 191, 122, 1);
 
 }
+.bg-span{
+ color: rgba(117, 191, 122, 1);
+
+
+}
+.bg-p{
+    color: rgba(158, 157, 162, 1);
+
+}
+.values{
+    position: absolute;
+    bottom: -465px;
+   left: 310px;
+}
+.values-2{
+    position: absolute;
+    bottom: -465px;
+   left: 945px;
+}
+.values-3{
+    position: absolute;
+    bottom: -920px;
+    left: 310px;
+}
+.values-4{
+    position: absolute;
+    bottom: -915px;
+   left: 945px;
+}
