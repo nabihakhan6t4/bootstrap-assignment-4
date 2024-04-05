@@ -15,4 +15,6 @@
     color: rgba(158, 157, 162, 1);
 
 }
-
+body{
+    overflow-x: hidden;
+}
