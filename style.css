@@ -16,14 +16,23 @@
 
 }
 body{
-    overflow-x: hidden;
+   overflow-x: hidden;
 }
 .lrtb{
     position: absolute;
     bottom: -42.5rem;
     left: 49rem;
 }
+.position-fixed{
+    position: absolute;
+    top: 85rem;
 
+}
+
+.border-custom {
+    border: 1px solid #FFFFFF;
+    background: #FFFFFF;
+}
 
 
 
